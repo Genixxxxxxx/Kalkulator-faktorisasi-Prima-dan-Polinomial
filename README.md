@@ -1,2 +1,2 @@
 # Kalkulator-faktorisasi-Prima-dan-Polinomial
-Kode ini dibuat hanya sebagai bahan belajar saya dalam memahami bahasa pemrograman C++ secara lebih mendalam.
+This program was created to facilitate finding the results of prime factorization and polynomial factorization.
